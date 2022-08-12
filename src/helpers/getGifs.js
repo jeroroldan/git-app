@@ -9,7 +9,7 @@
       {
         id: img.id,
         title: img.title,
-        url: img.images.downsized_medium.ulr
+        url: img.images.downsized_medium.url
       }
     ))
     console.log(gifs)
